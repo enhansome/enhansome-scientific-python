@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:06:55Z",
+            "last_commit": "2026-08-14T19:59:22Z",
             "owner": "napari",
             "repo": "napari",
             "stars": 2733
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-12T23:13:23Z",
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3481
+            "stars": 3483
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:44:15.567Z",
+    "last_updated": "2026-08-15T04:45:12.329Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
     "enhanced_repository": "enhansome/enhansome-scientific-python",
