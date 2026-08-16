@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:13:23Z",
+            "last_commit": "2026-08-15T21:08:16Z",
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3483
+            "stars": 3484
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-01T09:02:50Z",
             "owner": "brian-team",
             "repo": "brian2",
-            "stars": 1215
+            "stars": 1216
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:45:12.329Z",
+    "last_updated": "2026-08-16T04:48:48.120Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
     "enhanced_repository": "enhansome/enhansome-scientific-python",
