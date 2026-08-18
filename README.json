@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:59:22Z",
+            "last_commit": "2026-08-18T01:29:28Z",
             "owner": "napari",
             "repo": "napari",
             "stars": 2734
@@ -60,10 +60,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T01:42:59Z",
+            "last_commit": "2026-08-17T22:37:31Z",
             "owner": "mne-tools",
             "repo": "mne-python",
-            "stars": 3486
+            "stars": 3487
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-03T21:58:31Z",
             "owner": "nipy",
             "repo": "nibabel",
-            "stars": 785
+            "stars": 786
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-06-11T16:45:13Z",
             "owner": "faroit",
             "repo": "awesome-python-scientific-audio",
-            "stars": 1707
+            "stars": 1708
           }
         }
       ],
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:55:59.007Z",
+    "last_updated": "2026-08-18T04:49:44.582Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
     "enhanced_repository": "enhansome/enhansome-scientific-python",
