@@ -1,202 +1,274 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Core libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other scientific libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "bqplot",
-          "description": "2D interactive visualization in Jupyter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-07T08:33:08Z",
-            "owner": "bqplot",
-            "repo": "bqplot",
-            "stars": 3694
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "bqplot",
+                  "description": "2D interactive visualization in Jupyter.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43191201,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-07T08:33:08Z",
+                    "owner": "bqplot",
+                    "repo": "bqplot",
+                    "stars": 3694
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Napari",
+                  "description": "Multi-dimensional image viewer for python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144513571,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T12:10:21Z",
+                    "owner": "napari",
+                    "repo": "napari",
+                    "stars": 2735
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data visualization"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other scientific libraries"
         },
         {
-          "node_type": "item",
-          "title": "Napari",
-          "description": "Multi-dimensional image viewer for python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T22:27:03Z",
-            "owner": "napari",
-            "repo": "napari",
-            "stars": 2735
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MNE",
+                  "description": "MEG and EEG.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1301584,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T07:11:05Z",
+                    "owner": "mne-tools",
+                    "repo": "mne-python",
+                    "stars": 3489
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DIPY",
+                  "description": "Diffusion MR imaging.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 505209,
+                    "language": "Python",
+                    "last_commit": "2026-08-11T14:23:50Z",
+                    "owner": "dipy",
+                    "repo": "dipy",
+                    "stars": 835
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NiBabel",
+                  "description": "Neuro-imaging file formats.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 791352,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T21:58:31Z",
+                    "owner": "nipy",
+                    "repo": "nibabel",
+                    "stars": 786
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Expyriment",
+                  "description": "Behavioral and neuroimaging experiments.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11923647,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T13:05:09Z",
+                    "owner": "expyriment",
+                    "repo": "expyriment",
+                    "stars": 137
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Neuroimaging"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Brian2",
+                  "description": "Simulations of spiking neural networks.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6884056,
+                    "language": "Python",
+                    "last_commit": "2026-08-01T09:02:50Z",
+                    "owner": "brian-team",
+                    "repo": "brian2",
+                    "stars": 1218
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Nengo",
+                  "description": "Simulation of large-scale brain models",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9568894,
+                    "language": "Python",
+                    "last_commit": "2026-08-02T14:25:10Z",
+                    "owner": "nengo",
+                    "repo": "nengo",
+                    "stars": 939
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Klusta",
+                  "description": "Spike detection and clustering-based spike sorting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54110163,
+                    "language": "Python",
+                    "last_commit": "2021-04-22T08:01:37Z",
+                    "owner": "kwikteam",
+                    "repo": "klusta",
+                    "stars": 53
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Neuroscience"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Domain-specific libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Useful libraries for data science in Python",
+              "description": "by Sebastian Raschka.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18258282,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-11-26T15:54:59Z",
+                "owner": "rasbt",
+                "repo": "pattern_classification",
+                "stars": 4211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python for Scientific Audio",
+              "description": "by Fabian-Robert Stöter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74242520,
+                "language": null,
+                "last_commit": "2026-06-11T16:45:13Z",
+                "owner": "faroit",
+                "repo": "awesome-python-scientific-audio",
+                "stars": 1708
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lists of libraries"
         }
       ],
-      "title": "Data visualization"
+      "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Domain-specific libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "MNE",
-          "description": "MEG and EEG.",
+          "title": "A gallery of interesting Jupyter Notebooks",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36895421,
             "language": "Python",
-            "last_commit": "2026-08-18T20:25:05Z",
-            "owner": "mne-tools",
-            "repo": "mne-python",
-            "stars": 3488
+            "last_commit": "2026-07-09T16:05:40Z",
+            "owner": "jupyter",
+            "repo": "jupyter",
+            "stars": 15352
           }
         },
         {
           "node_type": "item",
-          "title": "DIPY",
-          "description": "Diffusion MR imaging.",
+          "title": "List of Python Data Science Tutorials",
+          "description": "Ujjwal Karn.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43759462,
             "language": "Python",
-            "last_commit": "2026-08-11T14:23:50Z",
-            "owner": "dipy",
-            "repo": "dipy",
-            "stars": 835
+            "last_commit": "2024-04-03T10:37:58Z",
+            "owner": "ujjwalkarn",
+            "repo": "DataSciencePython",
+            "stars": 5810
           }
         },
         {
           "node_type": "item",
-          "title": "NiBabel",
-          "description": "Neuro-imaging file formats.",
+          "title": "Lectures on scientific computing with Python",
+          "description": "Robert Johansson.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T21:58:31Z",
-            "owner": "nipy",
-            "repo": "nibabel",
-            "stars": 786
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Expyriment",
-          "description": "Behavioral and neuroimaging experiments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T13:05:09Z",
-            "owner": "expyriment",
-            "repo": "expyriment",
-            "stars": 137
-          }
-        }
-      ],
-      "title": "Neuroimaging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Brian2",
-          "description": "Simulations of spiking neural networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T09:02:50Z",
-            "owner": "brian-team",
-            "repo": "brian2",
-            "stars": 1218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nengo",
-          "description": "Simulation of large-scale brain models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-02T14:25:10Z",
-            "owner": "nengo",
-            "repo": "nengo",
-            "stars": 939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Klusta",
-          "description": "Spike detection and clustering-based spike sorting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-22T08:01:37Z",
-            "owner": "kwikteam",
-            "repo": "klusta",
-            "stars": 53
-          }
-        }
-      ],
-      "title": "Neuroscience"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Useful libraries for data science in Python",
-          "description": "by Sebastian Raschka.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 6920160,
             "language": "Jupyter Notebook",
-            "last_commit": "2023-11-26T15:54:59Z",
-            "owner": "rasbt",
-            "repo": "pattern_classification",
-            "stars": 4211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python for Scientific Audio",
-          "description": "by Fabian-Robert Stöter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-11T16:45:13Z",
-            "owner": "faroit",
-            "repo": "awesome-python-scientific-audio",
-            "stars": 1708
+            "last_commit": "2026-06-02T22:19:39Z",
+            "owner": "jrjohansson",
+            "repo": "scientific-python-lectures",
+            "stars": 3647
           }
         }
       ],
-      "title": "Lists of libraries"
+      "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:49:55.048Z",
+    "last_updated": "2026-08-19T12:51:05.651Z",
     "original_repository": "rossant/awesome-scientific-python",
+    "original_repository_id": 144892637,
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
     "enhanced_repository": "enhansome/enhansome-scientific-python",
     "enhanced_repository_description": null,
