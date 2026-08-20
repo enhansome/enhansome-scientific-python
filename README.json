@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 144513571,
                     "language": "Python",
-                    "last_commit": "2026-08-19T12:10:21Z",
+                    "last_commit": "2026-08-19T21:12:23Z",
                     "owner": "napari",
                     "repo": "napari",
                     "stars": 2735
@@ -60,10 +60,10 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-19T07:11:05Z",
+                    "last_commit": "2026-08-19T18:52:20Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3489
+                    "stars": 3490
                   }
                 },
                 {
@@ -75,7 +75,7 @@
                     "archived": false,
                     "id": 505209,
                     "language": "Python",
-                    "last_commit": "2026-08-11T14:23:50Z",
+                    "last_commit": "2026-08-19T16:44:26Z",
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 835
@@ -130,7 +130,7 @@
                     "last_commit": "2026-08-01T09:02:50Z",
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1218
+                    "stars": 1219
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-08-02T14:25:10Z",
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 939
+                    "stars": 940
                   }
                 },
                 {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:05.651Z",
+    "last_updated": "2026-08-20T04:50:37.568Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_id": 144892637,
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
