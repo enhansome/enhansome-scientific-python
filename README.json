@@ -19,7 +19,7 @@
                     "last_commit": "2026-05-07T08:33:08Z",
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3694
+                    "stars": 3693
                   }
                 },
                 {
@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 144513571,
                     "language": "Python",
-                    "last_commit": "2026-08-19T21:12:23Z",
+                    "last_commit": "2026-08-21T08:03:56Z",
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2737
+                    "stars": 2738
                   }
                 }
               ],
@@ -60,7 +60,7 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-20T22:38:19Z",
+                    "last_commit": "2026-08-21T19:17:49Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3488
@@ -75,7 +75,7 @@
                     "archived": false,
                     "id": 505209,
                     "language": "Python",
-                    "last_commit": "2026-08-20T16:03:49Z",
+                    "last_commit": "2026-08-21T20:01:28Z",
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 835
@@ -108,7 +108,7 @@
                     "last_commit": "2026-08-18T13:05:09Z",
                     "owner": "expyriment",
                     "repo": "expyriment",
-                    "stars": 137
+                    "stars": 138
                   }
                 }
               ],
@@ -187,7 +187,7 @@
                 "last_commit": "2023-11-26T15:54:59Z",
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4209
+                "stars": 4210
               }
             },
             {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15348
+            "stars": 15349
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-04-03T10:37:58Z",
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5809
+            "stars": 5811
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-06-02T22:19:39Z",
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3646
+            "stars": 3647
           }
         }
       ],
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:52:11.672Z",
+    "last_updated": "2026-08-22T04:47:19.603Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_id": 144892637,
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
