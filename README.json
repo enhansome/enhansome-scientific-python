@@ -60,10 +60,10 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-21T19:17:49Z",
+                    "last_commit": "2026-08-23T03:10:55Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3488
+                    "stars": 3492
                   }
                 },
                 {
@@ -75,7 +75,7 @@
                     "archived": false,
                     "id": 505209,
                     "language": "Python",
-                    "last_commit": "2026-08-21T20:01:28Z",
+                    "last_commit": "2026-08-22T05:31:47Z",
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 835
@@ -93,7 +93,7 @@
                     "last_commit": "2026-08-03T21:58:31Z",
                     "owner": "nipy",
                     "repo": "nibabel",
-                    "stars": 787
+                    "stars": 788
                   }
                 },
                 {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-11-26T15:54:59Z",
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4210
+                "stars": 4211
               }
             },
             {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15349
+            "stars": 15351
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-04-03T10:37:58Z",
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5811
+            "stars": 5812
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:47:19.603Z",
+    "last_updated": "2026-08-23T04:50:51.182Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_id": 144892637,
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
