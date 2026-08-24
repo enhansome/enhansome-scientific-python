@@ -60,10 +60,10 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-23T03:10:55Z",
+                    "last_commit": "2026-08-24T02:09:39Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3492
+                    "stars": 3493
                   }
                 },
                 {
@@ -93,7 +93,7 @@
                     "last_commit": "2026-08-03T21:58:31Z",
                     "owner": "nipy",
                     "repo": "nibabel",
-                    "stars": 788
+                    "stars": 790
                   }
                 },
                 {
@@ -130,7 +130,7 @@
                     "last_commit": "2026-08-01T09:02:50Z",
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1219
+                    "stars": 1220
                   }
                 },
                 {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-11-26T15:54:59Z",
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4211
+                "stars": 4212
               }
             },
             {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351
+            "stars": 15352
           }
         },
         {
@@ -266,7 +266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:50:51.182Z",
+    "last_updated": "2026-08-24T04:59:09.814Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_id": 144892637,
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
