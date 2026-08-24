@@ -41,6 +41,28 @@
               "description": null,
               "node_type": "group",
               "title": "Data visualization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dask",
+                  "description": "Parallel computing with task scheduling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28782747,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T14:33:18Z",
+                    "owner": "dask",
+                    "repo": "dask",
+                    "stars": 13895
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Parallel computing"
             }
           ],
           "description": null,
@@ -53,6 +75,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Shapely",
+                  "description": "Manipulation and analysis of geometric objects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3080613,
+                    "language": "Python",
+                    "last_commit": "2026-08-20T08:29:29Z",
+                    "owner": "shapely",
+                    "repo": "shapely",
+                    "stars": 4491
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Geospatial data"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "khmer",
+                  "description": "k-mer counting, filtering, and graph traversal.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4331833,
+                    "language": "Python",
+                    "last_commit": "2024-02-17T11:37:33Z",
+                    "owner": "dib-lab",
+                    "repo": "khmer",
+                    "stars": 790
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Bioinformatics"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "MNE",
                   "description": "MEG and EEG.",
                   "children": [],
@@ -60,10 +126,10 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-24T02:09:39Z",
+                    "last_commit": "2026-08-24T12:40:55Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3493
+                    "stars": 3494
                   }
                 },
                 {
@@ -75,7 +141,7 @@
                     "archived": false,
                     "id": 505209,
                     "language": "Python",
-                    "last_commit": "2026-08-22T05:31:47Z",
+                    "last_commit": "2026-08-24T13:36:01Z",
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 835
@@ -266,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:59:09.814Z",
+    "last_updated": "2026-08-24T14:28:03.793Z",
     "original_repository": "rossant/awesome-scientific-python",
     "original_repository_id": 144892637,
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
