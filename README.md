@@ -195,7 +195,7 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 636 | 🌐 Python | 📅 2026-08-24 - MEG and EEG.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 637 | 🌐 Python | 📅 2026-08-24 - MEG and EEG.
 * [DIPY](https://github.com/nipy/dipy) ⭐ 835 | 🐛 138 | 🌐 Python | 📅 2026-08-24 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 156 | 🌐 Python | 📅 2026-08-24 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Behavioral and neuroimaging experiments.
@@ -255,7 +255,7 @@ A curated list of awesome scientific Python resources.
 
 # Tutorials
 
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,350 | 🐛 46 | 🌐 Python | 📅 2026-07-09
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,351 | 🐛 46 | 🌐 Python | 📅 2026-07-09
 * [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,812 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,647 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02 - Robert Johansson.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
