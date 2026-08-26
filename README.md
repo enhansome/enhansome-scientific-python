@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-05-07 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,740 | 🐛 1,235 | 🌐 Python | 📅 2026-08-24 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,739 | 🐛 1,239 | 🌐 Python | 📅 2026-08-25 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,895 | 🐛 1,312 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,897 | 🐛 1,312 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -170,7 +170,7 @@ A curated list of awesome scientific Python resources.
 
 ### Geospatial data
 
-* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,491 | 🐛 236 | 🌐 Python | 📅 2026-08-20 - Manipulation and analysis of geometric objects.
+* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,493 | 🐛 237 | 🌐 Python | 📅 2026-08-20 - Manipulation and analysis of geometric objects.
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
 * [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
@@ -195,8 +195,8 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 637 | 🌐 Python | 📅 2026-08-24 - MEG and EEG.
-* [DIPY](https://github.com/nipy/dipy) ⭐ 835 | 🐛 138 | 🌐 Python | 📅 2026-08-24 - Diffusion MR imaging.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 633 | 🌐 Python | 📅 2026-08-25 - MEG and EEG.
+* [DIPY](https://github.com/nipy/dipy) ⭐ 836 | 🐛 139 | 🌐 Python | 📅 2026-08-26 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 156 | 🌐 Python | 📅 2026-08-24 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Behavioral and neuroimaging experiments.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
@@ -204,7 +204,7 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroscience
 
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,220 | 🐛 205 | 🌐 Python | 📅 2026-08-01 - Simulations of spiking neural networks.
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,220 | 🐛 207 | 🌐 Python | 📅 2026-08-01 - Simulations of spiking neural networks.
 * [Nengo](https://github.com/nengo/nengo) ⭐ 940 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
 * [Klusta](https://github.com/kwikteam/klusta) ⭐ 53 | 🐛 55 | 🌐 Python | 📅 2021-04-22 - Spike detection and clustering-based spike sorting.
 * [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
