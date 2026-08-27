@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-25T17:13:28Z",
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2739
+                    "stars": 2741
                   }
                 }
               ],
@@ -126,10 +126,10 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-25T19:08:45Z",
+                    "last_commit": "2026-08-27T11:55:49Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3494
+                    "stars": 3496
                   }
                 },
                 {
@@ -141,10 +141,10 @@
                     "archived": false,
                     "id": 505209,
                     "language": "Python",
-                    "last_commit": "2026-08-26T03:51:28Z",
+                    "last_commit": "2026-08-26T18:39:49Z",
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 836
+                    "stars": 837
                   }
                 },
                 {
@@ -196,7 +196,7 @@
                     "last_commit": "2026-08-01T09:02:50Z",
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1220
+                    "stars": 1222
                   }
                 },
                 {
@@ -211,7 +211,7 @@
                     "last_commit": "2026-08-02T14:25:10Z",
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 940
+                    "stars": 941
                   }
                 },
                 {
@@ -253,7 +253,7 @@
                 "last_commit": "2023-11-26T15:54:59Z",
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4212
+                "stars": 4211
               }
             },
             {
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-09T16:05:40Z",
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15351
+            "stars": 15350
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-04-03T10:37:58Z",
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5812
+            "stars": 5813
           }
         },
         {
@@ -332,9 +332,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:54:02.864Z",
-    "original_repository": "rossant/awesome-scientific-python",
-    "original_repository_id": 144892637,
+    "last_updated": "2026-08-27T12:03:58.254Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 144892637,
+      "language": "Python",
+      "last_commit": "2024-08-31T09:53:07Z",
+      "owner": "rossant",
+      "repo": "awesome-scientific-python",
+      "stars": 350
+    },
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
     "enhanced_repository": "enhansome/enhansome-scientific-python",
     "enhanced_repository_description": null,
