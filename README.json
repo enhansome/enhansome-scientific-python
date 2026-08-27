@@ -126,7 +126,7 @@
                     "archived": false,
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:55:49Z",
+                    "last_commit": "2026-08-27T14:32:04Z",
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3496
@@ -141,7 +141,7 @@
                     "archived": false,
                     "id": 505209,
                     "language": "Python",
-                    "last_commit": "2026-08-26T18:39:49Z",
+                    "last_commit": "2026-08-27T13:58:24Z",
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 837
@@ -253,7 +253,7 @@
                 "last_commit": "2023-11-26T15:54:59Z",
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4211
+                "stars": 4210
               }
             },
             {
@@ -309,7 +309,7 @@
             "last_commit": "2024-04-03T10:37:58Z",
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5813
+            "stars": 5814
           }
         },
         {
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:58.254Z",
+    "last_updated": "2026-08-27T15:12:52.452Z",
     "original_repository_info": {
       "archived": false,
       "id": 144892637,
