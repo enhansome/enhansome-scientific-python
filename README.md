@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-05-07 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,746 | 🐛 1,233 | 🌐 Python | 📅 2026-08-25 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,749 | 🐛 1,234 | 🌐 Python | 📅 2026-08-25 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,899 | 🐛 1,315 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,901 | 🐛 1,317 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

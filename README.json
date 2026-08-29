@@ -14,12 +14,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plotting library for IPython/Jupyter notebooks",
+                    "homepage": "https://bqplot.github.io/bqplot",
                     "id": 43191201,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-07T08:33:08Z",
+                    "open_issues": 278,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3693
+                    "stars": 3693,
+                    "topics": [
+                      "ipython",
+                      "jupyter",
+                      "visualizations"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 },
@@ -30,12 +39,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "napari: a fast, interactive, multi-dimensional image viewer for python",
+                    "homepage": "https://napari.org",
                     "id": 144513571,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-25T17:13:28Z",
+                    "open_issues": 1234,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2746
+                    "stars": 2749,
+                    "topics": [
+                      "napari",
+                      "numpy",
+                      "python",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 }
@@ -53,12 +72,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parallel computing with task scheduling",
+                    "homepage": "https://dask.org",
                     "id": 28782747,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
+                    "open_issues": 1317,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13899
+                    "stars": 13901,
+                    "topics": [
+                      "dask",
+                      "numpy",
+                      "pandas",
+                      "pydata",
+                      "python",
+                      "scikit-learn",
+                      "scipy"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 }
@@ -83,12 +115,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Manipulation and analysis of geometric objects",
+                    "homepage": "https://shapely.readthedocs.io/en/stable/",
                     "id": 3080613,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-20T08:29:29Z",
+                    "open_issues": 237,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4495
+                    "stars": 4495,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 }
@@ -106,12 +143,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more",
+                    "homepage": "http://khmer.readthedocs.io/",
                     "id": 4331833,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-17T11:37:33Z",
+                    "open_issues": 353,
                     "owner": "dib-lab",
                     "repo": "khmer",
-                    "stars": 790
+                    "stars": 790,
+                    "topics": [
+                      "bioinformatics",
+                      "bloom-filter",
+                      "count-min-sketch",
+                      "dna",
+                      "graph-traversal",
+                      "k-mer",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 }
@@ -129,12 +179,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+                    "homepage": "https://mne.tools",
                     "id": 1301584,
                     "language": "Python",
-                    "last_commit": "2026-08-28T16:12:42Z",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-08-28T19:17:03Z",
+                    "open_issues": 628,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3497
+                    "stars": 3497,
+                    "topics": [
+                      "ecog",
+                      "eeg",
+                      "electrocorticography",
+                      "electroencephalography",
+                      "machine-learning",
+                      "magnetoencephalography",
+                      "meg",
+                      "neuroimaging",
+                      "neuroscience",
+                      "python",
+                      "statistics",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 },
@@ -145,12 +213,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DIPY is the paragon 3D/4D+ medical imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images. Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging.",
+                    "homepage": "https://dipy.org",
                     "id": 505209,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T04:47:27Z",
+                    "open_issues": 132,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 837
+                    "stars": 837,
+                    "topics": [
+                      "bundles",
+                      "contextual-enhancement",
+                      "denoising",
+                      "diffusion-mri",
+                      "dki",
+                      "dti",
+                      "machine-learning",
+                      "medical-imaging",
+                      "microstructure",
+                      "neuroanatomy",
+                      "neuroimaging",
+                      "patch2self",
+                      "python",
+                      "registration",
+                      "segmentation",
+                      "self-supervised-learning",
+                      "spherical-harmonics",
+                      "tracking",
+                      "tractography",
+                      "tractometry"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 },
@@ -161,12 +255,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python package to access a cacophony of neuro-imaging file formats",
+                    "homepage": "http://nipy.org/nibabel/",
                     "id": 791352,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T20:17:32Z",
+                    "open_issues": 156,
                     "owner": "nipy",
                     "repo": "nibabel",
-                    "stars": 790
+                    "stars": 790,
+                    "topics": [
+                      "afni-brik-head",
+                      "brain-imaging",
+                      "cifti-2",
+                      "data-formats",
+                      "dicom",
+                      "ecat",
+                      "gifti",
+                      "minc",
+                      "neuroimaging",
+                      "nifti",
+                      "python",
+                      "streamlines",
+                      "tck",
+                      "trk"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 },
@@ -177,12 +291,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments",
+                    "homepage": "www.expyriment.org",
                     "id": 11923647,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T13:05:09Z",
+                    "open_issues": 4,
                     "owner": "expyriment",
                     "repo": "expyriment",
-                    "stars": 138
+                    "stars": 138,
+                    "topics": [
+                      "cognitive-science",
+                      "experiment-control",
+                      "neuroimaging-experiments",
+                      "neuroscience",
+                      "openscience",
+                      "opensesame",
+                      "psychology",
+                      "psychology-experiments",
+                      "python-library",
+                      "science",
+                      "stimulus-presentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 }
@@ -200,12 +331,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Brian is a free, open source simulator for spiking neural networks. ",
+                    "homepage": "http://briansimulator.org",
                     "id": 6884056,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-01T09:02:50Z",
+                    "open_issues": 207,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1222
+                    "stars": 1222,
+                    "topics": [
+                      "biological-simulations",
+                      "brian",
+                      "brian2",
+                      "code-generation",
+                      "computational-neuroscience",
+                      "differential-equations",
+                      "neuroscience",
+                      "python",
+                      "science",
+                      "simulation-framework",
+                      "spiking-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 },
@@ -216,12 +364,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python library for creating and simulating large-scale brain models",
+                    "homepage": "https://www.nengo.ai/nengo",
                     "id": 9568894,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-02T14:25:10Z",
+                    "open_issues": 140,
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 941
+                    "stars": 941,
+                    "topics": [
+                      "nengo",
+                      "neural-networks",
+                      "neuroscience",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 },
@@ -232,12 +390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatic spike sorting up to 64 channels",
+                    "homepage": null,
                     "id": 54110163,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-04-22T08:01:37Z",
+                    "open_issues": 55,
                     "owner": "kwikteam",
                     "repo": "klusta",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
                 }
@@ -260,12 +423,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks",
+                "homepage": null,
                 "id": 18258282,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2023-11-26T15:54:59Z",
+                "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4210
+                "stars": 4210,
+                "topics": [
+                  "machine-learning",
+                  "machine-learning-algorithms",
+                  "pattern-classification"
+                ]
               },
               "first_seen": "2026-08-28T16:35:57.751Z"
             },
@@ -276,12 +448,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Curated list of python software and packages related to scientific research in audio",
+                "homepage": null,
                 "id": 74242520,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-11T16:45:13Z",
+                "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1707
+                "stars": 1707,
+                "topics": [
+                  "audio",
+                  "awesome-list",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:35:57.751Z"
             }
@@ -303,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jupyter metapackage for installation and documentation",
+            "homepage": "https://jupyter.readthedocs.io/",
             "id": 36895421,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
+            "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350
+            "stars": 15350,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
         },
@@ -319,12 +505,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "common data analysis and machine learning tasks using python",
+            "homepage": null,
             "id": 43759462,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-03T10:37:58Z",
+            "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5816
+            "stars": 5816,
+            "topics": [
+              "data-science",
+              "data-scientists",
+              "python",
+              "python-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
         },
@@ -335,12 +531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lectures on scientific computing with python, as IPython notebooks.",
+            "homepage": null,
             "id": 6920160,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-02T22:19:39Z",
+            "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3649
+            "stars": 3649,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
         }
@@ -349,15 +550,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:35:57.751Z",
+    "last_updated": "2026-08-29T04:46:51.714Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome scientific Python resources",
+      "homepage": null,
       "id": 144892637,
       "language": "Python",
+      "license": null,
       "last_commit": "2024-08-31T09:53:07Z",
+      "open_issues": 4,
       "owner": "rossant",
       "repo": "awesome-scientific-python",
-      "stars": 350
+      "stars": 350,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-analysis",
+        "data-science",
+        "data-visualization",
+        "list",
+        "python",
+        "science",
+        "scientific-computing",
+        "scientific-visualization"
+      ]
     },
     "original_repository_sha": "f365a12475bf446d7aedce0c90e5267c5993b6d2",
     "enhanced_repository": "enhansome/enhansome-scientific-python",
