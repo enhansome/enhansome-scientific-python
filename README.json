@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-25T17:13:28Z",
-                    "open_issues": 1234,
+                    "open_issues": 1235,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2749,
+                    "stars": 2750,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1317,
+                    "open_issues": 1318,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13901,
+                    "stars": 13902,
                     "topics": [
                       "dask",
                       "numpy",
@@ -185,7 +185,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T19:17:03Z",
-                    "open_issues": 628,
+                    "open_issues": 629,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3497,
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:51.714Z",
+    "last_updated": "2026-08-29T11:02:27.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
