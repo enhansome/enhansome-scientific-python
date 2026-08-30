@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1318,
+                    "open_issues": 1320,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13902,
+                    "stars": 13905,
                     "topics": [
                       "dask",
                       "numpy",
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-28T19:17:03Z",
-                    "open_issues": 629,
+                    "last_commit": "2026-08-29T14:29:53Z",
+                    "open_issues": 632,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3497,
@@ -219,7 +219,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-28T04:47:27Z",
-                    "open_issues": 132,
+                    "open_issues": 133,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 837,
@@ -457,7 +457,7 @@
                 "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1707,
+                "stars": 1708,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5816,
+            "stars": 5817,
             "topics": [
               "data-science",
               "data-scientists",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:02:27.224Z",
+    "last_updated": "2026-08-30T09:55:10.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
