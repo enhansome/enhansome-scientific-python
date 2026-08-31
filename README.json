@@ -20,7 +20,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-07T08:33:08Z",
-                    "open_issues": 278,
+                    "open_issues": 279,
                     "owner": "bqplot",
                     "repo": "bqplot",
                     "stars": 3693,
@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-25T17:13:28Z",
-                    "open_issues": 1235,
+                    "open_issues": 1237,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2750,
+                    "stars": 2751,
                     "topics": [
                       "napari",
                       "numpy",
@@ -81,7 +81,7 @@
                     "open_issues": 1320,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13905,
+                    "stars": 13909,
                     "topics": [
                       "dask",
                       "numpy",
@@ -124,7 +124,7 @@
                     "open_issues": 237,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4495,
+                    "stars": 4496,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-29T14:29:53Z",
-                    "open_issues": 632,
+                    "last_commit": "2026-08-31T10:09:54Z",
+                    "open_issues": 628,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3497,
@@ -373,7 +373,7 @@
                     "open_issues": 140,
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 941,
+                    "stars": 942,
                     "topics": [
                       "nengo",
                       "neural-networks",
@@ -457,7 +457,7 @@
                 "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1708,
+                "stars": 1709,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T09:55:10.032Z",
+    "last_updated": "2026-08-31T10:48:34.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
