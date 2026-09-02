@@ -44,11 +44,11 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-01T07:50:54Z",
-                    "open_issues": 1235,
+                    "last_commit": "2026-09-01T19:56:58Z",
+                    "open_issues": 1234,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2751,
+                    "stars": 2752,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,7 +78,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1321,
+                    "open_issues": 1323,
                     "owner": "dask",
                     "repo": "dask",
                     "stars": 13910,
@@ -124,7 +124,7 @@
                     "open_issues": 238,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4497,
+                    "stars": 4496,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-31T18:23:59Z",
-                    "open_issues": 625,
+                    "last_commit": "2026-09-01T18:06:02Z",
+                    "open_issues": 622,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3500,
@@ -218,8 +218,8 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T06:19:42Z",
-                    "open_issues": 126,
+                    "last_commit": "2026-09-01T19:49:19Z",
+                    "open_issues": 129,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 837,
@@ -373,7 +373,7 @@
                     "open_issues": 140,
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 943,
+                    "stars": 944,
                     "topics": [
                       "nengo",
                       "neural-networks",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:22:50.005Z",
+    "last_updated": "2026-09-02T08:45:14.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
