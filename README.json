@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-01T19:56:58Z",
-                    "open_issues": 1234,
+                    "open_issues": 1238,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2752,
+                    "stars": 2753,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,7 +78,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1323,
+                    "open_issues": 1324,
                     "owner": "dask",
                     "repo": "dask",
                     "stars": 13910,
@@ -124,7 +124,7 @@
                     "open_issues": 238,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4496,
+                    "stars": 4497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-01T18:06:02Z",
-                    "open_issues": 622,
+                    "last_commit": "2026-09-02T16:16:47Z",
+                    "open_issues": 624,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3500,
+                    "stars": 3501,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,8 +218,8 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T19:49:19Z",
-                    "open_issues": 129,
+                    "last_commit": "2026-09-02T15:54:09Z",
+                    "open_issues": 127,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 837,
@@ -260,7 +260,7 @@
                     "id": 791352,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T04:22:32Z",
+                    "last_commit": "2026-09-03T00:49:19Z",
                     "open_issues": 157,
                     "owner": "nipy",
                     "repo": "nibabel",
@@ -336,11 +336,11 @@
                     "id": 6884056,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T08:34:45Z",
-                    "open_issues": 206,
+                    "last_commit": "2026-09-02T13:25:43Z",
+                    "open_issues": 207,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1223,
+                    "stars": 1224,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -373,7 +373,7 @@
                     "open_issues": 140,
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 944,
+                    "stars": 945,
                     "topics": [
                       "nengo",
                       "neural-networks",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15349,
+            "stars": 15348,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5817,
+            "stars": 5818,
             "topics": [
               "data-science",
               "data-scientists",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:45:14.485Z",
+    "last_updated": "2026-09-03T08:54:23.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
