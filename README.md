@@ -109,8 +109,8 @@ A curated list of awesome scientific Python resources.
 
 ### Data visualization
 
-* [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,754 | 🐛 1,242 | 🌐 Python | 📅 2026-09-01 - Multi-dimensional image viewer for python.
+* [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,694 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - 2D interactive visualization in Jupyter.
+* [Napari](https://github.com/napari/napari) ⭐ 2,755 | 🐛 1,238 | 🌐 Python | 📅 2026-09-04 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,910 | 🐛 1,324 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,911 | 🐛 1,325 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -195,7 +195,7 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,501 | 🐛 624 | 🌐 Python | 📅 2026-09-04 - MEG and EEG.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,502 | 🐛 625 | 🌐 Python | 📅 2026-09-04 - MEG and EEG.
 * [DIPY](https://github.com/nipy/dipy) ⭐ 837 | 🐛 126 | 🌐 Python | 📅 2026-09-04 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 157 | 🌐 Python | 📅 2026-09-03 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Behavioral and neuroimaging experiments.
@@ -255,8 +255,8 @@ A curated list of awesome scientific Python resources.
 
 # Tutorials
 
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,346 | 🐛 46 | 🌐 Python | 📅 2026-07-09
-* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,817 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,347 | 🐛 46 | 🌐 Python | 📅 2026-07-09
+* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,816 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,648 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02 - Robert Johansson.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
 * [NumPy Illustrated - The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b) - Lev Maximov.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

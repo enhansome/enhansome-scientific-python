@@ -23,7 +23,7 @@
                     "open_issues": 279,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3693,
+                    "stars": 3694,
                     "topics": [
                       "ipython",
                       "jupyter",
@@ -44,11 +44,11 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-01T19:56:58Z",
-                    "open_issues": 1242,
+                    "last_commit": "2026-09-04T21:42:07Z",
+                    "open_issues": 1238,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2754,
+                    "stars": 2755,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1324,
+                    "open_issues": 1325,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13910,
+                    "stars": 13911,
                     "topics": [
                       "dask",
                       "numpy",
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-04T04:07:11Z",
-                    "open_issues": 624,
+                    "last_commit": "2026-09-04T22:02:08Z",
+                    "open_issues": 625,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3501,
+                    "stars": 3502,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,7 +218,7 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-04T02:28:36Z",
+                    "last_commit": "2026-09-04T19:44:12Z",
                     "open_issues": 126,
                     "owner": "dipy",
                     "repo": "dipy",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15346,
+            "stars": 15347,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5817,
+            "stars": 5816,
             "topics": [
               "data-science",
               "data-scientists",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:49:28.976Z",
+    "last_updated": "2026-09-05T08:20:01.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
