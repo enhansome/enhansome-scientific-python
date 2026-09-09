@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,694 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,757 | 🐛 1,240 | 🌐 Python | 📅 2026-09-07 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,758 | 🐛 1,243 | 🌐 Python | 📅 2026-09-07 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -170,7 +170,7 @@ A curated list of awesome scientific Python resources.
 
 ### Geospatial data
 
-* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,500 | 🐛 238 | 🌐 Python | 📅 2026-09-08 - Manipulation and analysis of geometric objects.
+* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,501 | 🐛 230 | 🌐 Python | 📅 2026-09-09 - Manipulation and analysis of geometric objects.
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
 * [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
@@ -195,8 +195,8 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,502 | 🐛 625 | 🌐 Python | 📅 2026-09-07 - MEG and EEG.
-* [DIPY](https://github.com/nipy/dipy) ⭐ 837 | 🐛 129 | 🌐 Python | 📅 2026-09-07 - Diffusion MR imaging.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,502 | 🐛 620 | 🌐 Python | 📅 2026-09-08 - MEG and EEG.
+* [DIPY](https://github.com/nipy/dipy) ⭐ 837 | 🐛 128 | 🌐 Python | 📅 2026-09-08 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 161 | 🌐 Python | 📅 2026-09-07 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Behavioral and neuroimaging experiments.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
@@ -221,8 +221,8 @@ A curated list of awesome scientific Python resources.
 
 ## Lists of libraries
 
-* [Useful libraries for data science in Python](https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md) ⭐ 4,210 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-26 - by Sebastian Raschka.
-* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,710 | 🐛 35 | 📅 2026-06-11 - by Fabian-Robert Stöter.
+* [Useful libraries for data science in Python](https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md) ⭐ 4,209 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-26 - by Sebastian Raschka.
+* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,711 | 🐛 35 | 📅 2026-06-11 - by Fabian-Robert Stöter.
 * [Python Numeric and Scientific](https://wiki.python.org/moin/NumericAndScientific) - on python.org.
 * [Scientific Computing Tools for Python](https://www.scipy.org/about.html) - on scipy.org.
 
@@ -244,7 +244,7 @@ A curated list of awesome scientific Python resources.
 * [Using Python for Research](https://online-learning.harvard.edu/course/using-python-research) - Jukka-Pekka Onnela, Harvard University Online Learning.
 * [Introduction to Data Analytics and Machine Learning with Python](https://www.city.ac.uk/courses/short-courses/introduction-to-data-analysis-and-machine-learning-with-python) - University of London.
 * [PHY 546: Python for Scientific Computing](http://bender.astro.sunysb.edu/classes/python-science/) - Stony Brook University, Michael Zingale, 2018.
-* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) ⭐ 894 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-02 - Luke Thompson, NOAA.
+* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) ⭐ 893 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-02 - Luke Thompson, NOAA.
 * [Coursera Data Science with Python](https://www.coursera.org/specializations/data-science-python) - University of Michigan.
 * [edX Python for Data Science](https://www.edx.org/course/python-for-data-science) - UC San Diego, Ilkay Altintas, Leo Porter.
 * [edX Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - UC Berkeley, Ani Adhikari, John DeNero, David Wagner.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

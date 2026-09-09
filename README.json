@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-07T18:02:22Z",
-                    "open_issues": 1240,
+                    "open_issues": 1243,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2757,
+                    "stars": 2758,
                     "topics": [
                       "napari",
                       "numpy",
@@ -120,11 +120,11 @@
                     "id": 3080613,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-08T07:20:42Z",
-                    "open_issues": 238,
+                    "last_commit": "2026-09-09T08:42:41Z",
+                    "open_issues": 230,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4500,
+                    "stars": 4501,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-07T15:01:19Z",
-                    "open_issues": 625,
+                    "last_commit": "2026-09-08T22:22:05Z",
+                    "open_issues": 620,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3502,
@@ -218,8 +218,8 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-07T14:04:18Z",
-                    "open_issues": 129,
+                    "last_commit": "2026-09-08T20:09:06Z",
+                    "open_issues": 128,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 837,
@@ -432,7 +432,7 @@
                 "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4210,
+                "stars": 4209,
                 "topics": [
                   "machine-learning",
                   "machine-learning-algorithms",
@@ -457,7 +457,7 @@
                 "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1710,
+                "stars": 1711,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:50:26.367Z",
+    "last_updated": "2026-09-09T08:56:40.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
