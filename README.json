@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-07T18:02:22Z",
-                    "open_issues": 1246,
+                    "open_issues": 1250,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2758,
+                    "stars": 2757,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,7 +78,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1329,
+                    "open_issues": 1330,
                     "owner": "dask",
                     "repo": "dask",
                     "stars": 13913,
@@ -120,11 +120,11 @@
                     "id": 3080613,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-09T08:42:41Z",
-                    "open_issues": 232,
+                    "last_commit": "2026-09-10T09:47:41Z",
+                    "open_issues": 230,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4502,
+                    "stars": 4503,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-09T21:41:47Z",
-                    "open_issues": 621,
+                    "last_commit": "2026-09-10T17:49:10Z",
+                    "open_issues": 617,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3509,
+                    "stars": 3511,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,11 +218,11 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-08T20:09:06Z",
-                    "open_issues": 129,
+                    "last_commit": "2026-09-10T21:25:14Z",
+                    "open_issues": 122,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 837,
+                    "stars": 838,
                     "topics": [
                       "bundles",
                       "contextual-enhancement",
@@ -264,7 +264,7 @@
                     "open_issues": 161,
                     "owner": "nipy",
                     "repo": "nibabel",
-                    "stars": 790,
+                    "stars": 791,
                     "topics": [
                       "afni-brik-head",
                       "brain-imaging",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15346,
+            "stars": 15348,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:55:41.063Z",
+    "last_updated": "2026-09-11T08:53:40.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
@@ -562,7 +562,7 @@
       "open_issues": 4,
       "owner": "rossant",
       "repo": "awesome-scientific-python",
-      "stars": 351,
+      "stars": 353,
       "topics": [
         "awesome",
         "awesome-list",
