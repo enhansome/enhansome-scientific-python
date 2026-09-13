@@ -23,7 +23,7 @@
                     "open_issues": 279,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3693,
+                    "stars": 3694,
                     "topics": [
                       "ipython",
                       "jupyter",
@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-07T18:02:22Z",
-                    "open_issues": 1251,
+                    "open_issues": 1252,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2757,
+                    "stars": 2758,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,7 +78,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1330,
+                    "open_issues": 1332,
                     "owner": "dask",
                     "repo": "dask",
                     "stars": 13915,
@@ -124,7 +124,7 @@
                     "open_issues": 227,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4505,
+                    "stars": 4507,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-12T00:47:45Z",
-                    "open_issues": 617,
+                    "last_commit": "2026-09-12T16:46:36Z",
+                    "open_issues": 616,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3512,
+                    "stars": 3514,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -340,7 +340,7 @@
                     "open_issues": 209,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1228,
+                    "stars": 1229,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15348,
+            "stars": 15349,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -540,7 +540,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3650,
+            "stars": 3651,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T08:37:16.813Z",
+    "last_updated": "2026-09-13T09:30:10.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
