@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1332,
+                    "open_issues": 1333,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13915,
+                    "stars": 13916,
                     "topics": [
                       "dask",
                       "numpy",
@@ -124,7 +124,7 @@
                     "open_issues": 227,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4507,
+                    "stars": 4508,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-12T16:46:36Z",
-                    "open_issues": 616,
+                    "last_commit": "2026-09-14T04:29:09Z",
+                    "open_issues": 618,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3514,
@@ -219,10 +219,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-11T16:50:45Z",
-                    "open_issues": 123,
+                    "open_issues": 124,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 838,
+                    "stars": 839,
                     "topics": [
                       "bundles",
                       "contextual-enhancement",
@@ -261,7 +261,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-07T22:08:10Z",
-                    "open_issues": 161,
+                    "open_issues": 162,
                     "owner": "nipy",
                     "repo": "nibabel",
                     "stars": 791,
@@ -336,11 +336,11 @@
                     "id": 6884056,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-03T11:22:57Z",
-                    "open_issues": 209,
+                    "last_commit": "2026-09-14T08:35:13Z",
+                    "open_issues": 208,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1229,
+                    "stars": 1231,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15349,
+            "stars": 15348,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -540,7 +540,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3651,
+            "stars": 3652,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:30:10.011Z",
+    "last_updated": "2026-09-14T09:48:50.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
