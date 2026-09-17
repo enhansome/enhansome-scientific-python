@@ -44,7 +44,7 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-16T08:51:57Z",
+                    "last_commit": "2026-09-16T11:48:29Z",
                     "open_issues": 1247,
                     "owner": "napari",
                     "repo": "napari",
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T18:46:39Z",
-                    "open_issues": 1335,
+                    "open_issues": 1336,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13919,
+                    "stars": 13920,
                     "topics": [
                       "dask",
                       "numpy",
@@ -121,7 +121,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-15T14:31:09Z",
-                    "open_issues": 227,
+                    "open_issues": 228,
                     "owner": "shapely",
                     "repo": "shapely",
                     "stars": 4508,
@@ -152,7 +152,7 @@
                     "open_issues": 353,
                     "owner": "dib-lab",
                     "repo": "khmer",
-                    "stars": 790,
+                    "stars": 789,
                     "topics": [
                       "bioinformatics",
                       "bloom-filter",
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-15T22:26:18Z",
-                    "open_issues": 618,
+                    "last_commit": "2026-09-16T17:55:11Z",
+                    "open_issues": 617,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3517,
+                    "stars": 3519,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,8 +218,8 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T17:16:39Z",
-                    "open_issues": 123,
+                    "last_commit": "2026-09-16T19:06:55Z",
+                    "open_issues": 126,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 841,
@@ -340,7 +340,7 @@
                     "open_issues": 208,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1230,
+                    "stars": 1231,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -457,7 +457,7 @@
                 "open_issues": 34,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1711,
+                "stars": 1712,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350,
+            "stars": 15352,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:16:15.323Z",
+    "last_updated": "2026-09-17T09:25:00.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
