@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,692 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,763 | 🐛 1,263 | 🌐 Python | 📅 2026-09-24 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,765 | 🐛 1,260 | 🌐 Python | 📅 2026-09-25 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,925 | 🐛 1,342 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,927 | 🐛 1,343 | 🌐 Python | 📅 2026-08-24 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -196,7 +196,7 @@ A curated list of awesome scientific Python resources.
 ### Neuroimaging
 
 * [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,528 | 🐛 613 | 🌐 Python | 📅 2026-09-25 - MEG and EEG.
-* [DIPY](https://github.com/nipy/dipy) ⭐ 843 | 🐛 122 | 🌐 Python | 📅 2026-09-24 - Diffusion MR imaging.
+* [DIPY](https://github.com/nipy/dipy) ⭐ 843 | 🐛 121 | 🌐 Python | 📅 2026-09-25 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 794 | 🐛 160 | 🌐 Python | 📅 2026-09-19 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-08-18 - Behavioral and neuroimaging experiments.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
@@ -205,7 +205,7 @@ A curated list of awesome scientific Python resources.
 ### Neuroscience
 
 * [Brian2](https://github.com/brian-team/brian2) ⭐ 1,237 | 🐛 208 | 🌐 Python | 📅 2026-09-21 - Simulations of spiking neural networks.
-* [Nengo](https://github.com/nengo/nengo) ⭐ 948 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
+* [Nengo](https://github.com/nengo/nengo) ⭐ 949 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
 * [Klusta](https://github.com/kwikteam/klusta) ⭐ 53 | 🐛 55 | 🌐 Python | 📅 2021-04-22 - Spike detection and clustering-based spike sorting.
 * [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
 * [phy](https://phy.readthedocs.io/en/latest/) - Manual spike sorting for high-density multielectrode arrays.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
