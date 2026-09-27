@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-25T19:12:38Z",
-                    "open_issues": 1260,
+                    "open_issues": 1265,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2765,
+                    "stars": 2766,
                     "topics": [
                       "napari",
                       "numpy",
@@ -81,7 +81,7 @@
                     "open_issues": 1343,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13927,
+                    "stars": 13928,
                     "topics": [
                       "dask",
                       "numpy",
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-25T15:15:41Z",
-                    "open_issues": 613,
+                    "last_commit": "2026-09-26T23:43:05Z",
+                    "open_issues": 615,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3528,
@@ -222,7 +222,7 @@
                     "open_issues": 121,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 843,
+                    "stars": 844,
                     "topics": [
                       "bundles",
                       "contextual-enhancement",
@@ -340,7 +340,7 @@
                     "open_issues": 208,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1237,
+                    "stars": 1239,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15354,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5821,
+            "stars": 5823,
             "topics": [
               "data-science",
               "data-scientists",
@@ -540,7 +540,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3656,
+            "stars": 3657,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:19:34.398Z",
+    "last_updated": "2026-09-27T09:58:46.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
