@@ -45,7 +45,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-02T13:41:05Z",
-                    "open_issues": 1272,
+                    "open_issues": 1273,
                     "owner": "napari",
                     "repo": "napari",
                     "stars": 2769,
@@ -81,7 +81,7 @@
                     "open_issues": 1350,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13930,
+                    "stars": 13931,
                     "topics": [
                       "dask",
                       "numpy",
@@ -124,7 +124,7 @@
                     "open_issues": 231,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4517,
+                    "stars": 4518,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5824,
+            "stars": 5825,
             "topics": [
               "data-science",
               "data-scientists",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:08.994Z",
+    "last_updated": "2026-10-03T09:50:09.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
