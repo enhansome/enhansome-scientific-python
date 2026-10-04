@@ -23,7 +23,7 @@
                     "open_issues": 279,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3692,
+                    "stars": 3693,
                     "topics": [
                       "ipython",
                       "jupyter",
@@ -44,11 +44,11 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T13:41:05Z",
-                    "open_issues": 1273,
+                    "last_commit": "2026-10-03T15:36:43Z",
+                    "open_issues": 1272,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2769,
+                    "stars": 2771,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,7 +78,7 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-29T10:11:03Z",
-                    "open_issues": 1350,
+                    "open_issues": 1351,
                     "owner": "dask",
                     "repo": "dask",
                     "stars": 13931,
@@ -152,7 +152,7 @@
                     "open_issues": 353,
                     "owner": "dib-lab",
                     "repo": "khmer",
-                    "stars": 787,
+                    "stars": 788,
                     "topics": [
                       "bioinformatics",
                       "bloom-filter",
@@ -222,7 +222,7 @@
                     "open_issues": 121,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 847,
+                    "stars": 848,
                     "topics": [
                       "bundles",
                       "contextual-enhancement",
@@ -337,7 +337,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-03T00:06:40Z",
-                    "open_issues": 213,
+                    "open_issues": 214,
                     "owner": "brian-team",
                     "repo": "brian2",
                     "stars": 1241,
@@ -457,7 +457,7 @@
                 "open_issues": 34,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1717,
+                "stars": 1718,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15354,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:50:09.100Z",
+    "last_updated": "2026-10-04T10:33:06.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
