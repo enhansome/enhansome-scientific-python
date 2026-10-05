@@ -44,8 +44,8 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-03T15:36:43Z",
-                    "open_issues": 1272,
+                    "last_commit": "2026-10-05T10:06:21Z",
+                    "open_issues": 1275,
                     "owner": "napari",
                     "repo": "napari",
                     "stars": 2771,
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-29T10:11:03Z",
-                    "open_issues": 1351,
+                    "open_issues": 1352,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13931,
+                    "stars": 13933,
                     "topics": [
                       "dask",
                       "numpy",
@@ -120,11 +120,11 @@
                     "id": 3080613,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T10:55:58Z",
-                    "open_issues": 231,
+                    "last_commit": "2026-10-05T09:04:47Z",
+                    "open_issues": 227,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4518,
+                    "stars": 4519,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,8 +184,8 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T20:03:16Z",
-                    "open_issues": 610,
+                    "last_commit": "2026-10-05T09:40:20Z",
+                    "open_issues": 612,
                     "owner": "mne-tools",
                     "repo": "mne-python",
                     "stars": 3536,
@@ -219,7 +219,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T18:55:18Z",
-                    "open_issues": 121,
+                    "open_issues": 122,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 848,
@@ -336,8 +336,8 @@
                     "id": 6884056,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T00:06:40Z",
-                    "open_issues": 214,
+                    "last_commit": "2026-10-05T10:21:29Z",
+                    "open_issues": 216,
                     "owner": "brian-team",
                     "repo": "brian2",
                     "stars": 1241,
@@ -432,7 +432,7 @@
                 "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4209,
+                "stars": 4211,
                 "topics": [
                   "machine-learning",
                   "machine-learning-algorithms",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15354,
+            "stars": 15353,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -540,7 +540,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3659,
+            "stars": 3660,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:33:06.762Z",
+    "last_updated": "2026-10-05T11:24:46.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
