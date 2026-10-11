@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,693 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-09 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,776 | 🐛 1,292 | 🌐 Python | 📅 2026-10-09 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,777 | 🐛 1,294 | 🌐 Python | 📅 2026-10-09 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -170,7 +170,7 @@ A curated list of awesome scientific Python resources.
 
 ### Geospatial data
 
-* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,521 | 🐛 226 | 🌐 Python | 📅 2026-10-09 - Manipulation and analysis of geometric objects.
+* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,522 | 🐛 227 | 🌐 Python | 📅 2026-10-09 - Manipulation and analysis of geometric objects.
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
 * [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
@@ -195,8 +195,8 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,540 | 🐛 611 | 🌐 Python | 📅 2026-10-10 - MEG and EEG.
-* [DIPY](https://github.com/nipy/dipy) ⭐ 849 | 🐛 123 | 🌐 Python | 📅 2026-10-07 - Diffusion MR imaging.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,542 | 🐛 610 | 🌐 Python | 📅 2026-10-10 - MEG and EEG.
+* [DIPY](https://github.com/nipy/dipy) ⭐ 849 | 🐛 124 | 🌐 Python | 📅 2026-10-07 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 794 | 🐛 162 | 🌐 Python | 📅 2026-10-08 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-10-02 - Behavioral and neuroimaging experiments.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
@@ -204,8 +204,8 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroscience
 
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,241 | 🐛 208 | 🌐 Python | 📅 2026-10-09 - Simulations of spiking neural networks.
-* [Nengo](https://github.com/nengo/nengo) ⭐ 951 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,242 | 🐛 210 | 🌐 Python | 📅 2026-10-09 - Simulations of spiking neural networks.
+* [Nengo](https://github.com/nengo/nengo) ⭐ 952 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
 * [Klusta](https://github.com/kwikteam/klusta) ⭐ 53 | 🐛 55 | 🌐 Python | 📅 2021-04-22 - Spike detection and clustering-based spike sorting.
 * [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
 * [phy](https://phy.readthedocs.io/en/latest/) - Manual spike sorting for high-density multielectrode arrays.
@@ -255,8 +255,8 @@ A curated list of awesome scientific Python resources.
 
 # Tutorials
 
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,352 | 🐛 46 | 🌐 Python | 📅 2026-07-09
-* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,827 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,350 | 🐛 46 | 🌐 Python | 📅 2026-07-09
+* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,828 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,659 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02 - Robert Johansson.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
 * [NumPy Illustrated - The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b) - Lev Maximov.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
