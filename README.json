@@ -45,10 +45,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-16T13:06:53Z",
-                    "open_issues": 1306,
+                    "open_issues": 1313,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2782,
+                    "stars": 2783,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-29T10:11:03Z",
-                    "open_issues": 1370,
+                    "open_issues": 1369,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13935,
+                    "stars": 13934,
                     "topics": [
                       "dask",
                       "numpy",
@@ -124,7 +124,7 @@
                     "open_issues": 223,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4526,
+                    "stars": 4528,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -185,10 +185,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-15T19:10:39Z",
-                    "open_issues": 614,
+                    "open_issues": 617,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3553,
+                    "stars": 3555,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,7 +218,7 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T19:46:05Z",
+                    "last_commit": "2026-10-18T06:10:38Z",
                     "open_issues": 117,
                     "owner": "dipy",
                     "repo": "dipy",
@@ -300,7 +300,7 @@
                     "open_issues": 4,
                     "owner": "expyriment",
                     "repo": "expyriment",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": [
                       "cognitive-science",
                       "experiment-control",
@@ -457,7 +457,7 @@
                 "open_issues": 35,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1719,
+                "stars": 1718,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -493,7 +493,7 @@
             "open_issues": 46,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15353,
+            "stars": 15355,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -540,7 +540,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3661,
+            "stars": 3660,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:31:20.545Z",
+    "last_updated": "2026-10-18T08:49:04.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
@@ -562,7 +562,7 @@
       "open_issues": 6,
       "owner": "rossant",
       "repo": "awesome-scientific-python",
-      "stars": 357,
+      "stars": 358,
       "topics": [
         "awesome",
         "awesome-list",
