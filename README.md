@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,935 | 🐛 1,374 | 🌐 Python | 📅 2026-09-29 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,935 | 🐛 1,379 | 🌐 Python | 📅 2026-09-29 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -170,7 +170,7 @@ A curated list of awesome scientific Python resources.
 
 ### Geospatial data
 
-* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,529 | 🐛 223 | 🌐 Python | 📅 2026-10-16 - Manipulation and analysis of geometric objects.
+* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,530 | 🐛 223 | 🌐 Python | 📅 2026-10-16 - Manipulation and analysis of geometric objects.
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
 * [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
@@ -195,16 +195,16 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,557 | 🐛 620 | 🌐 Python | 📅 2026-10-19 - MEG and EEG.
-* [DIPY](https://github.com/nipy/dipy) ⭐ 850 | 🐛 118 | 🌐 Python | 📅 2026-10-20 - Diffusion MR imaging.
-* [NiBabel](https://github.com/nipy/nibabel) ⭐ 797 | 🐛 160 | 🌐 Python | 📅 2026-10-19 - Neuro-imaging file formats.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,556 | 🐛 622 | 🌐 Python | 📅 2026-10-19 - MEG and EEG.
+* [DIPY](https://github.com/nipy/dipy) ⭐ 850 | 🐛 124 | 🌐 Python | 📅 2026-10-20 - Diffusion MR imaging.
+* [NiBabel](https://github.com/nipy/nibabel) ⭐ 797 | 🐛 162 | 🌐 Python | 📅 2026-10-21 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2026-10-14 - Behavioral and neuroimaging experiments.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
 * [NiTime](http://nipy.org/nitime/) - Time series.
 
 ### Neuroscience
 
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,247 | 🐛 205 | 🌐 Python | 📅 2026-10-20 - Simulations of spiking neural networks.
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,247 | 🐛 203 | 🌐 Python | 📅 2026-10-20 - Simulations of spiking neural networks.
 * [Nengo](https://github.com/nengo/nengo) ⭐ 954 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
 * [Klusta](https://github.com/kwikteam/klusta) ⭐ 53 | 🐛 55 | 🌐 Python | 📅 2021-04-22 - Spike detection and clustering-based spike sorting.
 * [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
@@ -222,7 +222,7 @@ A curated list of awesome scientific Python resources.
 ## Lists of libraries
 
 * [Useful libraries for data science in Python](https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md) ⭐ 4,211 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-26 - by Sebastian Raschka.
-* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,719 | 🐛 35 | 📅 2026-09-11 - by Fabian-Robert Stöter.
+* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,720 | 🐛 35 | 📅 2026-09-11 - by Fabian-Robert Stöter.
 * [Python Numeric and Scientific](https://wiki.python.org/moin/NumericAndScientific) - on python.org.
 * [Scientific Computing Tools for Python](https://www.scipy.org/about.html) - on scipy.org.
 
@@ -255,9 +255,9 @@ A curated list of awesome scientific Python resources.
 
 # Tutorials
 
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,352 | 🐛 46 | 🌐 Python | 📅 2026-07-09
-* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,830 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
-* [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,661 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02 - Robert Johansson.
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,353 | 🐛 46 | 🌐 Python | 📅 2026-07-09
+* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,827 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
+* [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,658 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02 - Robert Johansson.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
 * [NumPy Illustrated - The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b) - Lev Maximov.
 * [Python NumPy tutorial](http://cs231n.github.io/python-numpy-tutorial/) - Justin Johnson, Stanford University.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
