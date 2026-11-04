@@ -23,7 +23,7 @@
                     "open_issues": 278,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3693,
+                    "stars": 3694,
                     "topics": [
                       "ipython",
                       "jupyter",
@@ -44,11 +44,11 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-02T18:25:29Z",
-                    "open_issues": 1322,
+                    "last_commit": "2026-11-03T19:12:03Z",
+                    "open_issues": 1321,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2793,
+                    "stars": 2794,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-29T10:11:03Z",
-                    "open_issues": 1418,
+                    "open_issues": 1422,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13943,
+                    "stars": 13942,
                     "topics": [
                       "dask",
                       "numpy",
@@ -121,10 +121,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-03T00:59:36Z",
-                    "open_issues": 230,
+                    "open_issues": 231,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4536,
+                    "stars": 4537,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-02T20:57:09Z",
-                    "open_issues": 616,
+                    "last_commit": "2026-11-03T19:21:39Z",
+                    "open_issues": 617,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3582,
+                    "stars": 3583,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,8 +218,8 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-02T15:16:15Z",
-                    "open_issues": 140,
+                    "last_commit": "2026-11-03T21:54:47Z",
+                    "open_issues": 138,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 851,
@@ -340,7 +340,7 @@
                     "open_issues": 222,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1254,
+                    "stars": 1257,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -454,7 +454,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-11T14:01:38Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
                 "stars": 1723,
@@ -493,7 +493,7 @@
             "open_issues": 49,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15350,
+            "stars": 15351,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T11:52:49.398Z",
+    "last_updated": "2026-11-04T12:03:19.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
