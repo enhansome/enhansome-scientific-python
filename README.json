@@ -23,7 +23,7 @@
                     "open_issues": 278,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3695,
+                    "stars": 3696,
                     "topics": [
                       "ipython",
                       "jupyter",
@@ -44,8 +44,8 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-05T22:26:35Z",
-                    "open_issues": 1327,
+                    "last_commit": "2026-11-07T14:07:57Z",
+                    "open_issues": 1325,
                     "owner": "napari",
                     "repo": "napari",
                     "stars": 2798,
@@ -124,7 +124,7 @@
                     "open_issues": 228,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4539,
+                    "stars": 4540,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -219,7 +219,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-05T17:10:35Z",
-                    "open_issues": 123,
+                    "open_issues": 125,
                     "owner": "dipy",
                     "repo": "dipy",
                     "stars": 853,
@@ -260,11 +260,11 @@
                     "id": 791352,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-06T23:13:19Z",
-                    "open_issues": 176,
+                    "last_commit": "2026-11-08T04:05:41Z",
+                    "open_issues": 164,
                     "owner": "nipy",
                     "repo": "nibabel",
-                    "stars": 803,
+                    "stars": 808,
                     "topics": [
                       "afni-brik-head",
                       "brain-imaging",
@@ -337,7 +337,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-05T16:27:40Z",
-                    "open_issues": 221,
+                    "open_issues": 222,
                     "owner": "brian-team",
                     "repo": "brian2",
                     "stars": 1256,
@@ -432,7 +432,7 @@
                 "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4210,
+                "stars": 4209,
                 "topics": [
                   "machine-learning",
                   "machine-learning-algorithms",
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5832,
+            "stars": 5831,
             "topics": [
               "data-science",
               "data-scientists",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:00:28.975Z",
+    "last_updated": "2026-11-08T11:14:31.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
