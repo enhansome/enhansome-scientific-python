@@ -44,8 +44,8 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-09T11:24:39Z",
-                    "open_issues": 1322,
+                    "last_commit": "2026-11-10T10:07:24Z",
+                    "open_issues": 1307,
                     "owner": "napari",
                     "repo": "napari",
                     "stars": 2799,
@@ -124,7 +124,7 @@
                     "open_issues": 228,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4540,
+                    "stars": 4541,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -152,7 +152,7 @@
                     "open_issues": 353,
                     "owner": "dib-lab",
                     "repo": "khmer",
-                    "stars": 791,
+                    "stars": 792,
                     "topics": [
                       "bioinformatics",
                       "bloom-filter",
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-09T09:46:44Z",
-                    "open_issues": 619,
+                    "last_commit": "2026-11-10T02:34:45Z",
+                    "open_issues": 622,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3585,
+                    "stars": 3586,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,11 +218,11 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-05T17:10:35Z",
+                    "last_commit": "2026-11-09T20:19:56Z",
                     "open_issues": 125,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 853,
+                    "stars": 854,
                     "topics": [
                       "bundles",
                       "contextual-enhancement",
@@ -260,11 +260,11 @@
                     "id": 791352,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T00:40:47Z",
+                    "last_commit": "2026-11-09T14:42:57Z",
                     "open_issues": 153,
                     "owner": "nipy",
                     "repo": "nibabel",
-                    "stars": 808,
+                    "stars": 809,
                     "topics": [
                       "afni-brik-head",
                       "brain-imaging",
@@ -337,7 +337,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-09T11:03:04Z",
-                    "open_issues": 218,
+                    "open_issues": 220,
                     "owner": "brian-team",
                     "repo": "brian2",
                     "stars": 1257,
@@ -373,7 +373,7 @@
                     "open_issues": 140,
                     "owner": "nengo",
                     "repo": "nengo",
-                    "stars": 958,
+                    "stars": 959,
                     "topics": [
                       "nengo",
                       "neural-networks",
@@ -432,7 +432,7 @@
                 "open_issues": 0,
                 "owner": "rasbt",
                 "repo": "pattern_classification",
-                "stars": 4209,
+                "stars": 4208,
                 "topics": [
                   "machine-learning",
                   "machine-learning-algorithms",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:47:04.412Z",
+    "last_updated": "2026-11-10T12:34:04.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
@@ -562,7 +562,7 @@
       "open_issues": 8,
       "owner": "rossant",
       "repo": "awesome-scientific-python",
-      "stars": 361,
+      "stars": 362,
       "topics": [
         "awesome",
         "awesome-list",
