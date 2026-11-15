@@ -23,7 +23,7 @@
                     "open_issues": 278,
                     "owner": "bqplot",
                     "repo": "bqplot",
-                    "stars": 3696,
+                    "stars": 3699,
                     "topics": [
                       "ipython",
                       "jupyter",
@@ -44,7 +44,7 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-13T15:10:21Z",
+                    "last_commit": "2026-11-15T07:27:35Z",
                     "open_issues": 1313,
                     "owner": "napari",
                     "repo": "napari",
@@ -81,7 +81,7 @@
                     "open_issues": 1434,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13950,
+                    "stars": 13951,
                     "topics": [
                       "dask",
                       "numpy",
@@ -124,7 +124,7 @@
                     "open_issues": 229,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4541,
+                    "stars": 4542,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -337,7 +337,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-12T09:40:09Z",
-                    "open_issues": 220,
+                    "open_issues": 221,
                     "owner": "brian-team",
                     "repo": "brian2",
                     "stars": 1258,
@@ -454,10 +454,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-11T14:01:38Z",
-                "open_issues": 41,
+                "open_issues": 42,
                 "owner": "faroit",
                 "repo": "awesome-python-scientific-audio",
-                "stars": 1724,
+                "stars": 1725,
                 "topics": [
                   "audio",
                   "awesome-list",
@@ -490,7 +490,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-09T16:05:40Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "jupyter",
             "repo": "jupyter",
             "stars": 15348,
@@ -514,7 +514,7 @@
             "open_issues": 13,
             "owner": "ujjwalkarn",
             "repo": "DataSciencePython",
-            "stars": 5833,
+            "stars": 5835,
             "topics": [
               "data-science",
               "data-scientists",
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:25:38.225Z",
+    "last_updated": "2026-11-15T11:55:05.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
