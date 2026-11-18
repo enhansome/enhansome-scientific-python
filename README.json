@@ -44,11 +44,11 @@
                     "id": 144513571,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-17T12:49:38Z",
-                    "open_issues": 1305,
+                    "last_commit": "2026-11-18T10:01:50Z",
+                    "open_issues": 1310,
                     "owner": "napari",
                     "repo": "napari",
-                    "stars": 2806,
+                    "stars": 2809,
                     "topics": [
                       "napari",
                       "numpy",
@@ -78,10 +78,10 @@
                     "language": "Python",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-17T00:50:22Z",
-                    "open_issues": 1432,
+                    "open_issues": 1433,
                     "owner": "dask",
                     "repo": "dask",
-                    "stars": 13955,
+                    "stars": 13957,
                     "topics": [
                       "dask",
                       "numpy",
@@ -124,7 +124,7 @@
                     "open_issues": 230,
                     "owner": "shapely",
                     "repo": "shapely",
-                    "stars": 4544,
+                    "stars": 4545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:35:57.751Z"
@@ -184,11 +184,11 @@
                     "id": 1301584,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-16T10:14:36Z",
-                    "open_issues": 635,
+                    "last_commit": "2026-11-17T22:38:16Z",
+                    "open_issues": 634,
                     "owner": "mne-tools",
                     "repo": "mne-python",
-                    "stars": 3595,
+                    "stars": 3596,
                     "topics": [
                       "ecog",
                       "eeg",
@@ -218,11 +218,11 @@
                     "id": 505209,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-16T14:51:05Z",
-                    "open_issues": 130,
+                    "last_commit": "2026-11-17T19:43:49Z",
+                    "open_issues": 126,
                     "owner": "dipy",
                     "repo": "dipy",
-                    "stars": 857,
+                    "stars": 855,
                     "topics": [
                       "bundles",
                       "contextual-enhancement",
@@ -337,10 +337,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-16T09:17:08Z",
-                    "open_issues": 225,
+                    "open_issues": 226,
                     "owner": "brian-team",
                     "repo": "brian2",
-                    "stars": 1259,
+                    "stars": 1258,
                     "topics": [
                       "biological-simulations",
                       "brian",
@@ -493,7 +493,7 @@
             "open_issues": 51,
             "owner": "jupyter",
             "repo": "jupyter",
-            "stars": 15348,
+            "stars": 15350,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -540,7 +540,7 @@
             "open_issues": 15,
             "owner": "jrjohansson",
             "repo": "scientific-python-lectures",
-            "stars": 3663,
+            "stars": 3664,
             "topics": []
           },
           "first_seen": "2026-08-28T16:35:57.751Z"
@@ -550,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:15:55.391Z",
+    "last_updated": "2026-11-18T12:58:55.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome scientific Python resources",
@@ -562,7 +562,7 @@
       "open_issues": 8,
       "owner": "rossant",
       "repo": "awesome-scientific-python",
-      "stars": 364,
+      "stars": 365,
       "topics": [
         "awesome",
         "awesome-list",
