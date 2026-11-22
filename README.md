@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,699 | 🐛 279 | 🌐 TypeScript | 📅 2026-10-27 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,810 | 🐛 1,299 | 🌐 Python | 📅 2026-11-20 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,810 | 🐛 1,301 | 🌐 Python | 📅 2026-11-20 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,960 | 🐛 1,437 | 🌐 Python | 📅 2026-11-17 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,959 | 🐛 1,437 | 🌐 Python | 📅 2026-11-21 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -170,7 +170,7 @@ A curated list of awesome scientific Python resources.
 
 ### Geospatial data
 
-* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,548 | 🐛 233 | 🌐 Python | 📅 2026-11-06 - Manipulation and analysis of geometric objects.
+* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,548 | 🐛 234 | 🌐 Python | 📅 2026-11-06 - Manipulation and analysis of geometric objects.
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
 * [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
@@ -195,7 +195,7 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,613 | 🐛 632 | 🌐 Python | 📅 2026-11-20 - MEG and EEG.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,614 | 🐛 633 | 🌐 Python | 📅 2026-11-20 - MEG and EEG.
 * [DIPY](https://github.com/nipy/dipy) ⭐ 854 | 🐛 129 | 🌐 Python | 📅 2026-11-19 - Diffusion MR imaging.
 * [NiBabel](https://github.com/nipy/nibabel) ⭐ 809 | 🐛 173 | 🌐 Python | 📅 2026-11-20 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2026-10-28 - Behavioral and neuroimaging experiments.
@@ -204,7 +204,7 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroscience
 
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,259 | 🐛 233 | 🌐 Python | 📅 2026-11-18 - Simulations of spiking neural networks.
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,260 | 🐛 233 | 🌐 Python | 📅 2026-11-18 - Simulations of spiking neural networks.
 * [Nengo](https://github.com/nengo/nengo) ⭐ 959 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
 * [Klusta](https://github.com/kwikteam/klusta) ⭐ 54 | 🐛 55 | 🌐 Python | 📅 2021-04-22 - Spike detection and clustering-based spike sorting.
 * [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
@@ -222,7 +222,7 @@ A curated list of awesome scientific Python resources.
 ## Lists of libraries
 
 * [Useful libraries for data science in Python](https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md) ⭐ 4,209 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-11-26 - by Sebastian Raschka.
-* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,724 | 🐛 42 | 📅 2026-09-11 - by Fabian-Robert Stöter.
+* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,724 | 🐛 41 | 📅 2026-09-11 - by Fabian-Robert Stöter.
 * [Python Numeric and Scientific](https://wiki.python.org/moin/NumericAndScientific) - on python.org.
 * [Scientific Computing Tools for Python](https://www.scipy.org/about.html) - on scipy.org.
 
@@ -244,7 +244,7 @@ A curated list of awesome scientific Python resources.
 * [Using Python for Research](https://online-learning.harvard.edu/course/using-python-research) - Jukka-Pekka Onnela, Harvard University Online Learning.
 * [Introduction to Data Analytics and Machine Learning with Python](https://www.city.ac.uk/courses/short-courses/introduction-to-data-analysis-and-machine-learning-with-python) - University of London.
 * [PHY 546: Python for Scientific Computing](http://bender.astro.sunysb.edu/classes/python-science/) - Stony Brook University, Michael Zingale, 2018.
-* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) ⭐ 895 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-02 - Luke Thompson, NOAA.
+* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) ⭐ 896 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-02 - Luke Thompson, NOAA.
 * [Coursera Data Science with Python](https://www.coursera.org/specializations/data-science-python) - University of Michigan.
 * [edX Python for Data Science](https://www.edx.org/course/python-for-data-science) - UC San Diego, Ilkay Altintas, Leo Porter.
 * [edX Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - UC Berkeley, Ani Adhikari, John DeNero, David Wagner.
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
