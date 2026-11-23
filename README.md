@@ -110,7 +110,7 @@ A curated list of awesome scientific Python resources.
 ### Data visualization
 
 * [bqplot](https://github.com/bloomberg/bqplot) ⭐ 3,699 | 🐛 279 | 🌐 TypeScript | 📅 2026-10-27 - 2D interactive visualization in Jupyter.
-* [Napari](https://github.com/napari/napari) ⭐ 2,810 | 🐛 1,301 | 🌐 Python | 📅 2026-11-20 - Multi-dimensional image viewer for python.
+* [Napari](https://github.com/napari/napari) ⭐ 2,813 | 🐛 1,302 | 🌐 Python | 📅 2026-11-23 - Multi-dimensional image viewer for python.
 * [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization for the web.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
@@ -158,7 +158,7 @@ A curated list of awesome scientific Python resources.
 
 ### Parallel computing
 
-* [Dask](https://github.com/dask/dask) ⭐ 13,959 | 🐛 1,437 | 🌐 Python | 📅 2026-11-21 - Parallel computing with task scheduling.
+* [Dask](https://github.com/dask/dask) ⭐ 13,959 | 🐛 1,449 | 🌐 Python | 📅 2026-11-23 - Parallel computing with task scheduling.
 * [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 
 ### GPU computing
@@ -170,7 +170,7 @@ A curated list of awesome scientific Python resources.
 
 ### Geospatial data
 
-* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,548 | 🐛 234 | 🌐 Python | 📅 2026-11-06 - Manipulation and analysis of geometric objects.
+* [Shapely](https://github.com/Toblerity/Shapely) ⭐ 4,550 | 🐛 234 | 🌐 Python | 📅 2026-11-06 - Manipulation and analysis of geometric objects.
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
 * [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
@@ -195,16 +195,16 @@ A curated list of awesome scientific Python resources.
 
 ### Neuroimaging
 
-* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,614 | 🐛 633 | 🌐 Python | 📅 2026-11-20 - MEG and EEG.
+* [MNE](https://github.com/mne-tools/mne-python) ⭐ 3,614 | 🐛 639 | 🌐 Python | 📅 2026-11-23 - MEG and EEG.
 * [DIPY](https://github.com/nipy/dipy) ⭐ 854 | 🐛 129 | 🌐 Python | 📅 2026-11-19 - Diffusion MR imaging.
-* [NiBabel](https://github.com/nipy/nibabel) ⭐ 809 | 🐛 173 | 🌐 Python | 📅 2026-11-20 - Neuro-imaging file formats.
+* [NiBabel](https://github.com/nipy/nibabel) ⭐ 809 | 🐛 175 | 🌐 Python | 📅 2026-11-20 - Neuro-imaging file formats.
 * [Expyriment](https://github.com/expyriment/expyriment) ⭐ 139 | 🐛 4 | 🌐 Python | 📅 2026-10-28 - Behavioral and neuroimaging experiments.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
 * [NiTime](http://nipy.org/nitime/) - Time series.
 
 ### Neuroscience
 
-* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,260 | 🐛 233 | 🌐 Python | 📅 2026-11-18 - Simulations of spiking neural networks.
+* [Brian2](https://github.com/brian-team/brian2) ⭐ 1,261 | 🐛 233 | 🌐 Python | 📅 2026-11-18 - Simulations of spiking neural networks.
 * [Nengo](https://github.com/nengo/nengo) ⭐ 959 | 🐛 140 | 🌐 Python | 📅 2026-08-02 - Simulation of large-scale brain models
 * [Klusta](https://github.com/kwikteam/klusta) ⭐ 54 | 🐛 55 | 🌐 Python | 📅 2021-04-22 - Spike detection and clustering-based spike sorting.
 * [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
@@ -255,7 +255,7 @@ A curated list of awesome scientific Python resources.
 
 # Tutorials
 
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,355 | 🐛 51 | 🌐 Python | 📅 2026-11-20
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) ⭐ 15,356 | 🐛 51 | 🌐 Python | 📅 2026-11-20
 * [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) ⭐ 5,835 | 🐛 13 | 🌐 Python | 📅 2024-04-03 - Ujjwal Karn.
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) ⭐ 3,663 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-06-02 - Robert Johansson.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
@@ -286,4 +286,4 @@ To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
